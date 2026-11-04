@@ -7,7 +7,7 @@
     "src/App.jsx": "a4be48b91fca5b012120e6a696da403ca837630d0159b2c873627974ffdee342",
     "src/Auth.jsx": "fc9965aeb94649de333325f0383548e3cf7b0f9ac660ca758f8e84b2ad469855",
     "src/Community.jsx": "36c94b6c5e84a595c79a1f4e75e492309354fcba2ded8f9ab78e3d529604e852",
-    "src/Consumer.jsx": "cc5182785311eeb0d4ac03107e959749071b41275092b1d23b98fdf3ad6a70c0",
+    "src/Consumer.jsx": "a3d0b9dc7bd2341b151bd541013f2a9ac8c410fe52bf59e3f656d801b07c8105",
     "src/Manager.jsx": "e56770dbcd4fd40d2638cf241fa14d112abc5e9a33283f9ea29d05b4f551d409",
     "src/Orders.jsx": "8c851688cb9e2b7eb848f2d33fa3617031001fae79a37cb69c60a652a0e3eaa0",
     "src/Rider.jsx": "0c10c01d86fa15dee2ed91c5c5f07b423e874a4de9170894fe46c612d3e91bf1",
@@ -16,7 +16,7 @@
     "src/api.js": "223beeadfaba2bd8e03baa5160016c35264e084036dca4f54de7844445c77966",
     "src/common.jsx": "6c1116f4cac5eb46ac15d5788bb72b3be403b1e6a9f36ad645f51f833261badb",
     "src/data.js": "92f00e822369c4009701bfc61ea8f7f88bedf1f82b0df536c331238f975ff03f",
-    "src/style.css": "cd3d0a9a2ff1bfd3a22f478d1c0729f2042ffe35a3655b43b8b59d9c410c3368",
+    "src/style.css": "b1799dd14f85afb0af92df6e69a912a8ff1637250a75e33bc59169bed5574f41",
     "src/ui.jsx": "4610a86c01bbda2b56bcb4312df26c3e7bc931545331951e9c10b90193db42c7",
     "contracts/v1.json": "547dd5fe30f771e170c87b9ab7a3376fe164e7525ca4790db29880e36d93b444"
   }
