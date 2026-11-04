@@ -4,8 +4,8 @@
   "algorithm": "sha256",
   "files": {
     "src/Admin.jsx": "f1cba60fc0c22542c3f455b879b55c031d80b20dd54facabfd4ce9e872bcd514",
-    "src/App.jsx": "d760e3e823cd124be9592f41cf741ccfc20d02c222a667a9aef9fda82cc8f51d",
-    "src/Auth.jsx": "f6c4cd5ea1ec606330e3876a351da233685e8b40edf626db414b2cb8184c2eb4",
+    "src/App.jsx": "5272aaf77926c574ac8fec340c71f2f59e1422c92b2405e478eea99d772dacee",
+    "src/Auth.jsx": "ef5c6c7008aa4b7b7c49d987be8460a256db10a4cec32a2da9ebc0a32169417e",
     "src/Community.jsx": "36c94b6c5e84a595c79a1f4e75e492309354fcba2ded8f9ab78e3d529604e852",
     "src/Consumer.jsx": "0d3296f16844dbab0be89b2ab6f89a6226624fca37ac1c1eeead586c8f33830f",
     "src/Manager.jsx": "595c4843104d110b26e696facf020b8cd620ece584d02e29e5dc05667cf21bba",
