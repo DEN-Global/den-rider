@@ -4,7 +4,8 @@
   "algorithm": "sha256",
   "files": {
     "src/Admin.jsx": "f1cba60fc0c22542c3f455b879b55c031d80b20dd54facabfd4ce9e872bcd514",
-    "src/App.jsx": "5272aaf77926c574ac8fec340c71f2f59e1422c92b2405e478eea99d772dacee",
+    "src/AdminConsole.jsx": "dff201d3b0a78992daea87a856dd5b7096e8f3f39fea3bf1779d0e842635b863",
+    "src/App.jsx": "79a38e5b2c1d480946a32c1a42e375c8acade3a2b8ec2c3f1c997d80477d1d75",
     "src/Auth.jsx": "ef5c6c7008aa4b7b7c49d987be8460a256db10a4cec32a2da9ebc0a32169417e",
     "src/Community.jsx": "36c94b6c5e84a595c79a1f4e75e492309354fcba2ded8f9ab78e3d529604e852",
     "src/Consumer.jsx": "0d3296f16844dbab0be89b2ab6f89a6226624fca37ac1c1eeead586c8f33830f",
@@ -13,10 +14,10 @@
     "src/Rider.jsx": "83d7cdb52eca0faba7d3d709c41bb738859d2da4b3456988a06a4a78d46c4199",
     "src/Security.jsx": "45f22f29bcb4a994376942f472ae6a13efe0a668475a43da6540730e74fe30d5",
     "src/Services.jsx": "e350c6c5470da2ee1368240b48874d66d4a01e55ea86f404890fc69aa58c1c10",
-    "src/api.js": "223beeadfaba2bd8e03baa5160016c35264e084036dca4f54de7844445c77966",
+    "src/api.js": "2ce9b3c98df5fe3c96a9d9b6de419f1fb099f9b6642ad2a9252febb496d371dd",
     "src/common.jsx": "6c1116f4cac5eb46ac15d5788bb72b3be403b1e6a9f36ad645f51f833261badb",
     "src/data.js": "92f00e822369c4009701bfc61ea8f7f88bedf1f82b0df536c331238f975ff03f",
-    "src/style.css": "cc70131e62d0c736a8fcff628bba8f521be1f2a6d78301ef8acbbe031e96279a",
+    "src/style.css": "86db1ecdaee88bb85da1d05a721e38024384e2d603ec011525b63b8c7f1e24c0",
     "src/ui.jsx": "4610a86c01bbda2b56bcb4312df26c3e7bc931545331951e9c10b90193db42c7",
     "contracts/v1.json": "547dd5fe30f771e170c87b9ab7a3376fe164e7525ca4790db29880e36d93b444"
   }
