@@ -5,8 +5,8 @@
   "files": {
     "src/Admin.jsx": "f1cba60fc0c22542c3f455b879b55c031d80b20dd54facabfd4ce9e872bcd514",
     "src/AdminConsole.jsx": "dff201d3b0a78992daea87a856dd5b7096e8f3f39fea3bf1779d0e842635b863",
-    "src/App.jsx": "5a5636280c81f65dfce8791bbfec836f0f3e18e60c55f7095d33313b298f7569",
-    "src/Auth.jsx": "ccfad559f23c67193305e2879135a9ee2df0154f8a6f22bed2b10c5313ce6695",
+    "src/App.jsx": "e8afe80e36828ff5c40082931b6de2fc5078c708b6911dd97402afbcb0bbe387",
+    "src/Auth.jsx": "615e02199a48d11309c95b06b14859c74086ab78e9a84926ceb85b3a9561a940",
     "src/Community.jsx": "b7390789c0cc60ba7173c65a945ef2f7d790aaa3775c8248484c4235204db4b2",
     "src/Consumer.jsx": "ec433c63b23b77c97ac339a0db4ba1b5995742014d511a914e0c0d9b4ff20a55",
     "src/DeliveryMap.jsx": "98d0e167e6f87dd1971979c426337ac31996a3f128e659af631992b1543244cf",
@@ -19,13 +19,13 @@
     "src/WorkspaceChoice.jsx": "fdaa9f5dffb47d47bc6185ed7c1f36479307067ea553c218fb0c1d7b69999294",
     "src/api.js": "2ce9b3c98df5fe3c96a9d9b6de419f1fb099f9b6642ad2a9252febb496d371dd",
     "src/commerce-island.png": "1f06bee9e78ddbee191c7ad59985466bc593edf24803a635769eba6386b68c39",
-    "src/common.jsx": "74dde8717daa478b799c9261989eaa59234d79001df0ceaa9709ef6d7483a97a",
+    "src/common.jsx": "62fc4f6f1f2b306bab9d6ff37cc6dc1216442f70303d44b5a2bb72a4242987f8",
     "src/data.js": "92f00e822369c4009701bfc61ea8f7f88bedf1f82b0df536c331238f975ff03f",
-    "src/eco-theme.css": "6afa4744633be1af7d725518ffb61ccc750c1d322cd37d7091f26cd6c85b10e6",
+    "src/eco-theme.css": "c68d2a53693eed9b364f7986a162752fd5cdc2af459adbfd2163735145447ba2",
     "src/legacy.css": "e5751c52ba54d5b447cc4be6995da3e88d2e3ee139d728d221fe75daea3339ec",
-    "src/pet-companion.css": "e3275a4e34781f11591a46bfff18272d9d168469a803bb073ddc8f8c42170f0f",
-    "src/style.css": "c32f56e1b6a5326e6b0e83730535813623bc07c1a9081fc3f837274190941505",
-    "src/ui.jsx": "fa75641af329a17ef7e856f3a9143d14baf5480e60716355bd348b5678457c1b",
+    "src/pet-companion.css": "129792932f58dab9baf8a4dc3ff85e208e604850645286426e5bfdc282010ca5",
+    "src/style.css": "d1065bf788674c616c8870677b0c39c9122d65aa7087e4846314674245b29e4b",
+    "src/ui.jsx": "57b8bd313dc3503d9a9eb580ed62f7afedc3344e529cc91cd0d1f69c7052a119",
     "contracts/v1.json": "547dd5fe30f771e170c87b9ab7a3376fe164e7525ca4790db29880e36d93b444"
   }
 }
